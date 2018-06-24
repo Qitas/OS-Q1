@@ -15,6 +15,6 @@
 
 OS-Q1项目针对中低端MCU，为实现多任务的统一调度和和应用层代码统一封装复用。
 
-![Q1 Logo](docs/R1.png)
+![Q1 Logo](docs/Q1.png)
 
 
