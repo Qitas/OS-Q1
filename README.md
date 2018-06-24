@@ -1,6 +1,6 @@
 # OS：Q1
 
-[![sites](docs/q.png)](http://qitas.cn)
+[![sites](docs/Q.png)](http://qitas.cn)
 
 [![owner](docs/qitas.png)](http://itq.ink/)
 
