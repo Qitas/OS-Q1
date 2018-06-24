@@ -2,8 +2,6 @@
 
 [![sites](docs/Q.png)](http://qitas.cn)
 
-[![owner](docs/qitas.png)](http://itq.ink/)
-
 ## 描述
 
 这是个关于OS总结的工程，Q1代表最低端的8051内核、stm8内核的实时系统OS
