@@ -1,20 +1,30 @@
-# OS：Q1
 
-[![sites](docs/Q.png)](http://qitas.cn)
+# OS-Q1 (www.OS-Q.com)
+
+[![sites](qitas/qitas.png)](http://www.os-q.com)
+
+---
 
 ## 描述
 
-包括8位、16位、32位嵌入式MCU实时系统
+OS-Q1项目针对中低端MCU，应用场景为边缘采集节点，相应平台资源受限，本工程试图为所有平台设计统一的封装接口，实现各个平台上多任务的统一调度和和应用层代码统一封装。
+
+---
 
 ## 组成
-- M1: 8051 osal、STM8 uCOS 、AVR arduino
-- M2: cortex-M freeRTOS uCOS RTX
-- M3: RT-Thread
+
+- M1: 8051 core
+- M2: cortex-M 
+- M3: cortex-A
+
+---
 
 ## 说明
 
-OS-Q1项目针对中低端MCU，为实现多任务的统一调度和和应用层代码统一封装复用。
+2018-10-15: 规范该仓库和项目目标
 
-![Q1 Logo](docs/Q1.png)
+---
+
+## 为锻造最美之器
 
 
