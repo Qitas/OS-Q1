@@ -1,30 +1,21 @@
+﻿# makefile
 
-# OS-Q1 (www.OS-Q.com)
+[project](https://github.com/Qitas/project.git) | 项目模板
 
-[![sites](qitas/qitas.png)](http://www.os-q.com)
+## 简介
 
----
-
-## 描述
-
-OS-Q1项目针对中低端MCU，应用场景为边缘采集节点，相应平台资源受限，本工程试图为所有平台设计统一的封装接口，实现各个平台上多任务的统一调度和和应用层代码统一封装。
-
----
+用于编译工程代码的模板文件
 
 ## 组成
 
-- M1: 8051 core
-- M2: cortex-M 
-- M3: cortex-A
+#### c
 
----
+#### cpp
 
-## 说明
-
-2018-10-15: 规范该仓库和项目目标
+#### go
 
 ---
 
 ## 为锻造最美之器
 
-
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
