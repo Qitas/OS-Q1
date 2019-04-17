@@ -1,21 +1,14 @@
-﻿# makefile
-
-[project](https://github.com/Qitas/project.git) | 项目模板
-
-## 简介
+﻿# [makefile](https://github.com/qitas/makefile) 
+#### qitas@qitas.cn
+## [描述](https://github.com/qitas/makefile/wiki) 
 
 用于编译工程代码的模板文件
 
-## 组成
+### [组成](qitas/) 
 
-#### c
+- [文档](docs/) 
+- [示例](demo/) 
 
-#### cpp
-
-#### go
-
----
-
-## 为锻造最美之器
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
+## 锻造最美之器

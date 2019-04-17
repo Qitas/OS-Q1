@@ -1,10 +1,10 @@
-#include <stdio.h>
+#include <iostream>
 
 int main(int argc, char* argv[])
 {
   // suppress warnings
   (void)argc; (void)argv;
 
-  printf("Hello World!\n");
+  std::cout << "Hello Qitas!" << std::endl;
   return 0;
 }
