@@ -1,8 +1,9 @@
-﻿# [makefile](https://github.com/qitas/makefile) 
+﻿# [Makefile](https://github.com/qitas/makefile) 
 #### qitas@qitas.cn
-## [描述](https://github.com/qitas/makefile/wiki) 
+#### 关联：[mAIn平台](https://github.com/Qitas/mAIn) 
+### [描述](https://github.com/qitas/makefile/wiki) 
 
-用于编译工程代码的模板文件
+用于make编译相关的工程代码，适用于依赖关系比较简单的情况
 
 ### [组成](qitas/) 
 
