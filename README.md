@@ -11,10 +11,23 @@ Make从makefile文件中获得构建程序的依赖关系，Makefile列出了每
 ```
  Makefile文件就是告诉make命令怎么样地去编译和链接程序。Makefile就像一个Shell脚本一样，其中也可以执行操作系统的命令。
 
+* make命令会在执行的目录下找名字叫“Makefile”或“makefile”的文件
+
+```
+obj = main.o utils.o 
+edit : $(obj)
+        cc -o edit $(obj)
+main.o : main.c defs.h
+        cc -c main.c
+```
+GNU make可以自动推导文件以及文件依赖关系后面的命令，没必要在每一个[.o]文件后都写上类似的命令。
+
+只要make看到一个[.o]文件，它就会自动的把[.c]文件加在依赖关系中，如果make找到一个whatever.o，那么whatever.c，就会是whatever.o的依赖文件。
+
 ### [收录资源](qitas/) 
 
-- [文档](docs/) 
-- [示例](demo/) 
+* [文档](docs/) 
+* [示例](demo/) 
 
 #### 关联上层项目：[mAIn智慧构建平台](https://github.com/Qitas/mAIn) 
 
