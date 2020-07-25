@@ -1,5 +1,4 @@
 ﻿# [Makefile](https://github.com/qitas/makefile) 
-#### qitas@qitas.cn
 
 对C、C++语言程序、需要先把源文件编译成中间代码文件，在Linux下中间代码是 .o 文件，在Windows下是 .obj 文件，这个动作叫做编译（compile）。把大量的.o文件合成执行文件叫作链接（link），对于编译和链接过程需要有相应文件的路径。
 
@@ -67,12 +66,9 @@ clean :
 .PHONY意思表示clean是一个“伪目标”，rm命令前面加小减号的表示某些文件出现问题，但不要管，继续做后面的事。
 
 
-### [收录资源](qitas/) 
+### [收录资源](https://github.com/qitas/makefile) 
 
 * [文档](docs/) 
 * [示例](demo/) 
 
-#### 关联上层项目：[mAIn智慧构建平台](https://github.com/Qitas/mAIn) 
-
-[![sites](qitas/qitas.png)](http://www.qitas.cn)
-## 锻造最美之器
+[![sites](http://182.61.61.133/link/resources/head.png)](http://www.qitas.cn) 
